@@ -4,6 +4,7 @@ In this project, you will construct a streaming event pipeline around Apache Kaf
 
 When the project is complete, you will be able to monitor a website to watch trains move from station to station. So a sample static view of the website page you create might look like this:
 
+![CTA Status Dashboard](https://github.com/HaslRepos/udacity_data_streaming_project_transport/blob/master/Optimizing%20Public%20Transport%20Dashboard.png)
 
 Prerequisites
 To complete your project locally, the following are required:
