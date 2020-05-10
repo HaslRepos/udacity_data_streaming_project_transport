@@ -13,3 +13,6 @@ Docker
 Python 3.7
 A minimum of 16gb+ RAM and a 4-core CPU on your computer to execute the simulation
 Alternatively, you may complete the project entirely in the Project Workspace we provide.
+
+
+For more information visit [Udacity Data Streaming Nanodegree](https://www.udacity.com/course/data-streaming-nanodegree--nd029)
